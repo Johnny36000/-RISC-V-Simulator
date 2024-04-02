@@ -1,0 +1,19 @@
+2000
+ADDI s0,s0,4000
+ADDI s1,s1,8000
+ADD t0, s0, zero
+ADDI t1, zero, 9
+SLLI t1, t1, 2
+ADD t1, t1, s1
+L1: LW t2, 0(t0)
+SW t2, 0(t1)
+ADDI t0, t0, 4
+ADDI t1, t1, -4
+SLT t3, t1, s1
+BEQ t3, zero, L1
+SLT t3, t1, s1
+BEQ t3, zero, L1
+ADDI t0,zero,500
+ADDI t1,zero,-500
+SUB t3,t0,t1
+EBREAK

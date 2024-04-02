@@ -1,0 +1,30 @@
+﻿  global.cpp
+  LS_instructions.cpp
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\LS_instructions.cpp(23,35): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\LS_instructions.cpp(31,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\LS_instructions.cpp(35,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main..cpp
+  Memory.cpp
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Memory.cpp(23,35): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Memory.cpp(31,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Memory.cpp(35,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Risc_v_Simulator.cpp
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(296,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(301,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(301,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(301,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(301,93): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(301,116): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(321,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(321,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(321,70): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(321,93): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(321,116): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\Risc_v_Simulator.cpp(362,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  RegisterFile.cpp
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\RegisterFile.cpp(190,37): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\RegisterFile.cpp(198,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\RegisterFile.cpp(202,43): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\Risc-v-Simulator\RegisterFile.cpp(80): warning C4715: 'RegisterFile::Iread': not all control paths return a value
+  Risc-v-Simulator.vcxproj -> C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Risc-v-simulator final version\x64\Debug\Risc-v-Simulator.exe
